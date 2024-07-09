@@ -1,24 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Counter</title>
-  <style>
-    /* CSS code to style the counter */
-    #counter {
-      font-size: 24px;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
-  <p id="counter">0</p>
-  <script>
-    // JavaScript code to increment the counter
-    let counter = document.getElementById("counter");
-    let count = localStorage.getItem("count") || 0;
-    count++;
-    localStorage.setItem("count", count);
-    counter.textContent = count;
-  </script>
-</body>
-</html>
+Regarding the statistics of Madrasahs, the situation of religious education in Pakistan is such that about 3.5 million students enrol in 35 thousand Madrasahs of Pakistan.
+ In short, we all know that the image that emerges in people's minds of a seminary student is an insufferable, ignorant, sectarian bearded youth bent on blowing himself up and those around him. 
+How this concept arose is not the subject of our introduction, but the question is, what can we do in this situation? We (teachers of the university) intend to use the minds of these students for the betterment of Pakistan. For this purpose we have organized a one-year computer software program , which has a good specialized material on software development within one year, after studying which the student will be useful in the software industry. Possible purposes of this program are:
+1) To economically stabilize madrassa students so that they can get out of the mercy of mosque management and speak religion without any economic pressure.
+2) To provide a strong foundation of IT to madrassa students, before the invention of the printing press, manuscripts of the Quran were written by hand, now they are found in museums and every special and general use only the printed Quran, this situation is rapidly changing. It is changing more and in the future people will read Quran on mobile phones and tablets. Our scholars should gain understanding from modern technology so that they can contribute positively to the promotion and development of Quran and Hadith.
+3) Everyone is aware of the role that social media plays in today's society. Our scholars should not only learn how to use social media, but they should play their role in promoting the invention of social media effectively.
